@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 02:07:10.380063
+# -*- mode: mandoku-view -*-
 #+TITLE: 上清道類事相
-#+PROPERTY: DZID  DZ1132
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，24—874 四卷 太平部
+#+DATE: 2015-08-29 02:07:11
+#+PROPERTY:  LASTPB <PB KR5e0034_SJB_004-240887a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶<md:KR5e0034_HFL_004-012b>¶¶¶¶¶¶¶¶¶¶¶
+
