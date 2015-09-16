@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 02:07:10.380063
+#+TITLE: 上清道類事相
+#+PROPERTY: DZID  DZ1132
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，24—874 四卷 太平部
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
